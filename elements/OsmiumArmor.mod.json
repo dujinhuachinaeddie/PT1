@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "osmium_head",
+    "enableBody": true,
+    "textureBody": "osmium_body",
+    "enableLeggings": true,
+    "textureLeggings": "osmium_leggings",
+    "enableBoots": true,
+    "textureBoots": "osmium_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "osmium",
+    "helmetName": "Osmium Helmet",
+    "bodyName": "Osmium Chestplate",
+    "leggingsName": "Osmium Leggings",
+    "bootsName": "Osmium Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 103,
+    "damageValueHelmet": 14,
+    "damageValueBody": 34,
+    "damageValueLeggings": 41,
+    "damageValueBoots": 14,
+    "enchantability": 62,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
