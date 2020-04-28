@@ -1,0 +1,712 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HHoSProOreBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProPickaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProAxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProSword",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProShovel",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProHoe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProAxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProSwordRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProShovelRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProHoeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProArmor",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HHoSProArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HHoSProArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Hhosmake",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSOreBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSIngot",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSOreSmelting",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSAxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSShovel",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSHoe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSAxeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSSwordRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSShovelRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSHoeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSArmor",
+      "type": "armor",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TCiSArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcOreBlock",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcGem",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcOreSmelting",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcPickaxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcAxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcSword",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcShovel",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcHoe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcAxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcSwordRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcShovelRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcHoeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcArmor",
+      "type": "armor",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "V2TcArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2TcArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TCiSrec",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "V2tcrec",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pr0jec7stuff",
+      "type": "tab",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ReinforcedHHoS",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RHHoSrec",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RHHoSTier2",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RHHoSTier2rec",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RHHoSTier3h",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RHHoSTier3",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TheGodspowerbattery",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tgpbrec",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tollicer",
+      "type": "gui",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.projecttollic.v2tcarmorboots": "V2Tc Boots",
+      "item.projecttollic.tcisarmorlegs": "TCiS Leggings",
+      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
+      "block.projecttollic.rhhostier2": "RHoS Tier 2",
+      "item.projecttollic.tcissword": "TCiS Sword",
+      "item.projecttollic.tcisaxe": "TCiS Axe",
+      "item.projecttollic.hhosproshovel": "HHoSPro Shovel",
+      "block.projecttollic.reinforcedhhos": "Reinforced HHoS Block",
+      "item.projecttollic.hhosproarmorbody": "HHoSPro Chestplate",
+      "block.projecttollic.tcisoreblock": "Block of TCiS",
+      "item.projecttollic.v2tcpickaxe": "V2Tc Pickaxe",
+      "item.projecttollic.tcisshovel": "TCiS Shovel",
+      "item.projecttollic.hhospropickaxe": "HHoSPro Pickaxe",
+      "item.projecttollic.hhosprohoe": "HHoSPro Hoe",
+      "item.projecttollic.tcishoe": "TCiS Hoe",
+      "item.projecttollic.v2tcgem": "V2Tc",
+      "item.projecttollic.v2tcaxe": "V2Tc Axe",
+      "block.projecttollic.v2tcoreblock": "Block of V2Tc",
+      "item.projecttollic.hhosproarmorboots": "HHoSPro Boots",
+      "item.projecttollic.tcisingot": "TCiS",
+      "item.projecttollic.tcispickaxe": "TCiS Pickaxe",
+      "item.projecttollic.hhosproaxe": "HHoSPro Axe",
+      "item.projecttollic.tcisarmorhelmet": "TCiS Helmet",
+      "item.projecttollic.v2tchoe": "V2Tc Hoe",
+      "item.projecttollic.v2tcarmorbody": "V2Tc Chestplate",
+      "item.projecttollic.v2tcarmorlegs": "V2Tc Leggings",
+      "itemGroup.tabpr0jec7stuff": "Pr0jec7 Stuff",
+      "item.projecttollic.v2tcsword": "V2Tc Sword",
+      "item.projecttollic.hhosproingot": "HHoSPro",
+      "item.projecttollic.hhosprosword": "HHoSPro Sword",
+      "block.projecttollic.hhosprooreblock": "Block of HHoSPro",
+      "item.projecttollic.hhosproarmorlegs": "HHoSPro Leggings",
+      "item.projecttollic.tcisarmorboots": "TCiS Boots",
+      "item.projecttollic.v2tcshovel": "V2Tc Shovel",
+      "zh_cn": "",
+      "item.projecttollic.hhosproarmorhelmet": "HHoSPro Helmet",
+      "item.projecttollic.v2tcarmorhelmet": "V2Tc Helmet",
+      "block.projecttollic.thegodspowerbattery": "The God\u0027s Battery",
+      "block.projecttollic.rhhostier3h": "RHHoS Tier 3 "
+    },
+    "zh_cn": {
+      "item.projecttollic.v2tcarmorboots": "V2Tc 靴子",
+      "item.projecttollic.tcisarmorbody": "TCiS 胸甲",
+      "item.projecttollic.tcisarmorlegs": "TCiS 护腿",
+      "block.projecttollic.rhhostier2": "RHHoS 二次加强",
+      "item.projecttollic.tcissword": "TCiS 剑",
+      "item.projecttollic.tcisaxe": "TCiS 斧",
+      "item.projecttollic.hhosproshovel": "HHoSPro 锹",
+      "block.projecttollic.reinforcedhhos": "加强的 HHoS",
+      "item.projecttollic.hhosproarmorbody": "HHoSPro Chestplate 胸甲",
+      "block.projecttollic.tcisoreblock": "TCiS 块",
+      "item.projecttollic.v2tcpickaxe": "V2Tc 镐",
+      "item.projecttollic.tcisshovel": "TCiS 锹",
+      "item.projecttollic.hhospropickaxe": "HHoSPro 镐",
+      "item.projecttollic.hhosprohoe": "HHoSPro 锄",
+      "item.projecttollic.tcishoe": "TCiS Hoe锄",
+      "item.projecttollic.v2tcgem": "V2Tc 人工宝石",
+      "item.projecttollic.v2tcaxe": "V2Tc 斧",
+      "block.projecttollic.v2tcoreblock": "V2Tc 块",
+      "item.projecttollic.hhosproarmorboots": "HHoSPro 靴子",
+      "item.projecttollic.tcisingot": "TCiS 锭",
+      "item.projecttollic.tcispickaxe": "TCiS 镐",
+      "item.projecttollic.hhosproaxe": "HHoSPro 斧",
+      "item.projecttollic.tcisarmorhelmet": "TCiS 头盔",
+      "item.projecttollic.v2tchoe": "V2Tc 锄",
+      "item.projecttollic.v2tcarmorbody": "V2Tc 胸甲",
+      "item.projecttollic.v2tcarmorlegs": "V2Tc 护腿",
+      "itemGroup.tabpr0jec7stuff": "T0llic",
+      "item.projecttollic.v2tcsword": "V2Tc 剑",
+      "item.projecttollic.hhosproingot": "HHoSPro 锭",
+      "item.projecttollic.hhosprosword": "HHoSPro 剑",
+      "block.projecttollic.hhosprooreblock": "HHoSPro 块",
+      "item.projecttollic.hhosproarmorlegs": "HHoSPro 护腿",
+      "item.projecttollic.tcisarmorboots": "TCiS 靴子",
+      "item.projecttollic.v2tcshovel": "V2Tc 铲",
+      "item.projecttollic.hhosproarmorhelmet": "HHoSPro 头盔",
+      "item.projecttollic.v2tcarmorhelmet": "V2Tc 头盔",
+      "block.projecttollic.thegodspowerbattery": "神の力",
+      "block.projecttollic.rhhostier3h": "RHHoS 三次加强"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "projecttollic",
+    "modName": "pr0jec7-t0llic",
+    "version": "0.0589",
+    "description": "Added some more things! Check yourself",
+    "author": "i.CAL",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "modPicture": "jjjk",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "credits": "I.cal !",
+    "modElementsPackage": "net.ical.projecttollic",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

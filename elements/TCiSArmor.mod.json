@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "tcis_head",
+    "enableBody": true,
+    "textureBody": "tcis_body",
+    "enableLeggings": true,
+    "textureLeggings": "tcis_leggings",
+    "enableBoots": true,
+    "textureBoots": "tcis_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "armorTextureFile": "tcis",
+    "helmetName": "TCiS Helmet",
+    "bodyName": "TCiS Chestplate",
+    "leggingsName": "TCiS Leggings",
+    "bootsName": "TCiS Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 113,
+    "damageValueHelmet": 15,
+    "damageValueBody": 38,
+    "damageValueLeggings": 45,
+    "damageValueBoots": 15,
+    "enchantability": 68,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

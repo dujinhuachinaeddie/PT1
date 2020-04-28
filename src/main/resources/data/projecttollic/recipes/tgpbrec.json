@@ -1,0 +1,42 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:rhhostier3h"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "projecttollic:rhhostier3h"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "projecttollic:rhhostier2"
+    },
+    "5": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "projecttollic:rhhostier3h"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "projecttollic:rhhostier3h"
+    }
+  },
+  "result": {
+    "item": "projecttollic:thegodspowerbattery",
+    "count": 1
+  }
+}

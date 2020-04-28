@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "projecttollic:blocks/rhhostier2",
+    "particle": "projecttollic:blocks/rhhostier2"
+  }
+}

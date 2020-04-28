@@ -1,0 +1,13 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:hhosprooreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:hhosproingot",
+    "count": 9
+  }
+}

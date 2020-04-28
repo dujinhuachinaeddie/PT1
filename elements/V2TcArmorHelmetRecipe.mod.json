@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:V2TcGem"
+      },
+      {
+        "value": "CUSTOM:V2TcGem"
+      },
+      {
+        "value": "CUSTOM:V2TcGem"
+      },
+      {
+        "value": "CUSTOM:V2TcGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:V2TcGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:V2TcArmor.helmet"
+    },
+    "name": "v2tcarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

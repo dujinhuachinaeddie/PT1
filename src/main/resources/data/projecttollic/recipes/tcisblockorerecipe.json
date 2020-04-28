@@ -1,0 +1,13 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:tcisoreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:tcisingot",
+    "count": 9
+  }
+}

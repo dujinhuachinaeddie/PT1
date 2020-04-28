@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tcis_pickaxe",
+    "customModelName": "Normal",
+    "name": "TCiS Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 15,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 105,
+    "damageVsEntity": 15.0,
+    "usageCount": 4198,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

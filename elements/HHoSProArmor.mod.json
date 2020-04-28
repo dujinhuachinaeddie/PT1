@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "hhospro_head",
+    "enableBody": true,
+    "textureBody": "hhospro_body",
+    "enableLeggings": true,
+    "textureLeggings": "hhospro_leggings",
+    "enableBoots": true,
+    "textureBoots": "hhospro_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "armorTextureFile": "hhospro",
+    "helmetName": "HHoSPro Helmet",
+    "bodyName": "HHoSPro Chestplate",
+    "leggingsName": "HHoSPro Leggings",
+    "bootsName": "HHoSPro Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

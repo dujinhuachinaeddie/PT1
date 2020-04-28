@@ -1,0 +1,26 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:tcisingot"
+    },
+    "2": {
+      "item": "projecttollic:tcisingot"
+    },
+    "3": {
+      "item": "projecttollic:tcisingot"
+    },
+    "5": {
+      "item": "projecttollic:tcisingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:tcisarmorboots",
+    "count": 1
+  }
+}

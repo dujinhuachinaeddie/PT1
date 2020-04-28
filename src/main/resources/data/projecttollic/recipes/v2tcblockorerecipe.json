@@ -1,0 +1,13 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:v2tcoreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:v2tcgem",
+    "count": 9
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "2": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "3": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "4": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "5": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "6": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "7": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "8": {
+      "item": "projecttollic:v2tcgem"
+    }
+  },
+  "result": {
+    "item": "projecttollic:v2tcarmorbody",
+    "count": 1
+  }
+}

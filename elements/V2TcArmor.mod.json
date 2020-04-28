@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "v2tc_head",
+    "enableBody": true,
+    "textureBody": "v2tc_body",
+    "enableLeggings": true,
+    "textureLeggings": "v2tc_leggings",
+    "enableBoots": true,
+    "textureBoots": "v2tc_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "armorTextureFile": "v2tc",
+    "helmetName": "V2Tc Helmet",
+    "bodyName": "V2Tc Chestplate",
+    "leggingsName": "V2Tc Leggings",
+    "bootsName": "V2Tc Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 83,
+    "damageValueHelmet": 11,
+    "damageValueBody": 28,
+    "damageValueLeggings": 33,
+    "damageValueBoots": 11,
+    "enchantability": 50,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

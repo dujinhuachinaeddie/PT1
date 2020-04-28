@@ -1,0 +1,42 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:tcisingot"
+    },
+    "1": {
+      "item": "projecttollic:tcisingot"
+    },
+    "2": {
+      "item": "projecttollic:tcisingot"
+    },
+    "3": {
+      "item": "projecttollic:tcisingot"
+    },
+    "4": {
+      "item": "projecttollic:tcisingot"
+    },
+    "5": {
+      "item": "projecttollic:tcisingot"
+    },
+    "6": {
+      "item": "projecttollic:tcisingot"
+    },
+    "7": {
+      "item": "projecttollic:tcisingot"
+    },
+    "8": {
+      "item": "projecttollic:tcisingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:tcisoreblock",
+    "count": 1
+  }
+}

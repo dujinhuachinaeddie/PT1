@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "v2tc_axe",
+    "customModelName": "Normal",
+    "name": "V2Tc Axe",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 11,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 77,
+    "damageVsEntity": 14.0,
+    "usageCount": 2719,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

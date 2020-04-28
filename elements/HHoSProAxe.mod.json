@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hhospro_axe",
+    "customModelName": "Normal",
+    "name": "HHoSPro Axe",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 20,
+    "efficiency": 24.0,
+    "attackSpeed": 1.0,
+    "enchantability": 140,
+    "damageVsEntity": 20.0,
+    "usageCount": 6267,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

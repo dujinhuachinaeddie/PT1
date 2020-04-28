@@ -1,0 +1,37 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:v2tcgem"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    },
+    {
+      "item": "projecttollic:hhosprooreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:reinforcedhhos",
+    "count": 1
+  }
+}
