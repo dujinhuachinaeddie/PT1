@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "osmium_hoe",
+    "customModelName": "Normal",
+    "name": "Osmium Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 14,
+    "efficiency": 19.0,
+    "attackSpeed": 1.0,
+    "enchantability": 96,
+    "damageVsEntity": 14.0,
+    "usageCount": 3720,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

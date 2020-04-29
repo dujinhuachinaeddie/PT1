@@ -1,0 +1,42 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "1": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "2": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "3": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "4": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "5": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "6": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "7": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "8": {
+      "item": "projecttollic:osmiumingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:osmiumoreblock",
+    "count": 1
+  }
+}
