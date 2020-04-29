@@ -1,0 +1,37 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "projecttollic:tcisingot"
+    },
+    {
+      "item": "minecraft:end_crystal"
+    },
+    {
+      "item": "minecraft:wither_rose"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "projecttollic:tcisingot"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:hhosproingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "2": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "3": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "4": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "5": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "6": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "7": {
+      "item": "projecttollic:hhosproingot"
+    },
+    "8": {
+      "item": "projecttollic:hhosproingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:hhosproarmorbody",
+    "count": 1
+  }
+}

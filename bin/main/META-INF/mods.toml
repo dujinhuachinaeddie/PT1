@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="projecttollic"
+version="0.0589"
+displayName="pr0jec7-t0llic"
+credits="I.cal !"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="i.CAL"
+description='''
+Added some more things! Check yourself
+'''
+
+[[dependencies.projecttollic]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.projecttollic]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28.2.3]"
+    ordering="NONE"
+    side="BOTH"
+
+

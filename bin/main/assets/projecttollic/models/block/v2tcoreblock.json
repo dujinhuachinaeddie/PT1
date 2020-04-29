@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "projecttollic:blocks/v2tc_ore_block",
+    "particle": "projecttollic:blocks/v2tc_ore_block"
+  }
+}

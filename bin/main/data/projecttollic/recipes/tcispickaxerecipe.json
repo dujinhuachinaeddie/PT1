@@ -1,0 +1,30 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:tcisingot"
+    },
+    "1": {
+      "item": "projecttollic:tcisingot"
+    },
+    "2": {
+      "item": "projecttollic:tcisingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "projecttollic:tcispickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:osmiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:osmiumingot",
+    "count": 9
+  }
+}

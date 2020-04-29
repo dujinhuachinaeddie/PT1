@@ -1,0 +1,11 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:smelting",
+  "experience": 3.8499999999999996,
+  "ingredient": {
+    "item": "projecttollic:unknown_element"
+  },
+  "result": {
+    "item": "projecttollic:v2tcgem"
+  }
+}

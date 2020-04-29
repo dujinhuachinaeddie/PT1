@@ -1,0 +1,26 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "2": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "3": {
+      "item": "projecttollic:osmiumingot"
+    },
+    "5": {
+      "item": "projecttollic:osmiumingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:osmiumarmorboots",
+    "count": 1
+  }
+}

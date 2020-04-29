@@ -1,0 +1,30 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "1": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "2": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "projecttollic:v2tcpickaxe",
+    "count": 1
+  }
+}
