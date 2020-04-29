@@ -1,0 +1,27 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "1": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "projecttollic:v2tchoe",
+    "count": 1
+  }
+}

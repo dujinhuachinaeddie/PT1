@@ -1,0 +1,26 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "2": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "3": {
+      "item": "projecttollic:v2tcgem"
+    },
+    "5": {
+      "item": "projecttollic:v2tcgem"
+    }
+  },
+  "result": {
+    "item": "projecttollic:v2tcarmorboots",
+    "count": 1
+  }
+}

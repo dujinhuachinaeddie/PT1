@@ -1,0 +1,11 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:smelting",
+  "experience": 4.816,
+  "ingredient": {
+    "item": "projecttollic:osmiumore"
+  },
+  "result": {
+    "item": "projecttollic:osmiumingot"
+  }
+}

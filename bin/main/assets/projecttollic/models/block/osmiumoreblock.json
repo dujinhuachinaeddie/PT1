@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "projecttollic:blocks/osmium_ore_block",
+    "particle": "projecttollic:blocks/osmium_ore_block"
+  }
+}
