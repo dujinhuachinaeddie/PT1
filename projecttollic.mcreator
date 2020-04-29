@@ -770,6 +770,54 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumOreBlock",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumIngot",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -777,8 +825,8 @@
   "language_map": {
     "en_us": {
       "item.projecttollic.v2tcarmorboots": "V2Tc Boots",
-      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "item.projecttollic.tcisarmorlegs": "TCiS Leggings",
+      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "block.projecttollic.rhhostier2": "RHoS Tier 2",
       "item.projecttollic.tcisaxe": "TCiS Axe",
       "block.projecttollic.reinforcedhhos": "Reinforced HHoS Block",
@@ -794,8 +842,8 @@
       "block.projecttollic.osmiumore": "Osmium Ore",
       "item.projecttollic.osmiumhoe": "Osmium Hoe",
       "item.projecttollic.hhosproarmorlegs": "HHoSPro Leggings",
-      "item.projecttollic.v2tcshovel": "V2Tc Shovel",
       "block.projecttollic.osmiumoreblock": "Block of Osmium",
+      "item.projecttollic.v2tcshovel": "V2Tc Shovel",
       "block.projecttollic.thegodspowerbattery": "The God\u0027s Battery",
       "block.projecttollic.rhhostier3h": "RHHoS Tier 3 ",
       "item.projecttollic.osmiumingot": "Osmium",
@@ -804,6 +852,7 @@
       "item.projecttollic.hhosproshovel": "HHoSPro Shovel",
       "item.projecttollic.osmiumarmorbody": "Osmium Chestplate",
       "item.projecttollic.hhosproarmorbody": "HHoSPro Chestplate",
+      "item.projecttollic.uraniumingot": "Uranium",
       "item.projecttollic.v2tcpickaxe": "V2Tc Pickaxe",
       "item.projecttollic.osmiumarmorhelmet": "Osmium Helmet",
       "item.projecttollic.osmiumarmorlegs": "Osmium Leggings",
@@ -811,6 +860,7 @@
       "item.projecttollic.tcishoe": "TCiS Hoe",
       "item.projecttollic.v2tcgem": "V2Tc",
       "item.projecttollic.hhosproarmorboots": "HHoSPro Boots",
+      "block.projecttollic.uraniumoreblock": "Block of Uranium",
       "item.projecttollic.osmiumaxe": "Osmium Axe",
       "item.projecttollic.hhosproaxe": "HHoSPro Axe",
       "item.projecttollic.tcisarmorhelmet": "TCiS Helmet",
@@ -820,6 +870,7 @@
       "itemGroup.tabpr0jec7stuff": "Pr0jec7 Stuff",
       "item.projecttollic.osmiumshovel": "Osmium Shovel",
       "item.projecttollic.hhosprosword": "HHoSPro Sword",
+      "block.projecttollic.uraniumore": "Uranium Ore",
       "block.projecttollic.hhosprooreblock": "Block of HHoSPro",
       "item.projecttollic.osmiumsword": "Osmium Sword",
       "item.projecttollic.tcisarmorboots": "TCiS Boots",
@@ -830,8 +881,8 @@
     },
     "zh_cn": {
       "item.projecttollic.v2tcarmorboots": "V2Tc 靴子",
-      "item.projecttollic.tcisarmorbody": "TCiS 胸甲",
       "item.projecttollic.tcisarmorlegs": "TCiS 护腿",
+      "item.projecttollic.tcisarmorbody": "TCiS 胸甲",
       "block.projecttollic.rhhostier2": "RHHoS 二次加强",
       "item.projecttollic.tcisaxe": "TCiS 斧",
       "block.projecttollic.reinforcedhhos": "加强的 HHoS",
@@ -857,6 +908,7 @@
       "item.projecttollic.hhosproshovel": "HHoSPro 锹",
       "item.projecttollic.osmiumarmorbody": "Osmium Chestplate",
       "item.projecttollic.hhosproarmorbody": "HHoSPro Chestplate 胸甲",
+      "item.projecttollic.uraniumingot": "Uranium",
       "item.projecttollic.v2tcpickaxe": "V2Tc 镐",
       "item.projecttollic.osmiumarmorhelmet": "Osmium Helmet",
       "item.projecttollic.osmiumarmorlegs": "Osmium Leggings",
@@ -864,6 +916,7 @@
       "item.projecttollic.tcishoe": "TCiS Hoe锄",
       "item.projecttollic.v2tcgem": "V2Tc 人工宝石",
       "item.projecttollic.hhosproarmorboots": "HHoSPro 靴子",
+      "block.projecttollic.uraniumoreblock": "Block of Uranium",
       "item.projecttollic.osmiumaxe": "Osmium Axe",
       "item.projecttollic.hhosproaxe": "HHoSPro 斧",
       "item.projecttollic.tcisarmorhelmet": "TCiS 头盔",
@@ -873,6 +926,7 @@
       "itemGroup.tabpr0jec7stuff": "T0llic",
       "item.projecttollic.osmiumshovel": "Osmium Shovel",
       "item.projecttollic.hhosprosword": "HHoSPro 剑",
+      "block.projecttollic.uraniumore": "Uranium Ore",
       "block.projecttollic.hhosprooreblock": "HHoSPro 块",
       "item.projecttollic.osmiumsword": "Osmium Sword",
       "item.projecttollic.tcisarmorboots": "TCiS 靴子",
@@ -884,7 +938,7 @@
   "workspaceSettings": {
     "modid": "projecttollic",
     "modName": "pr0jec7-t0llic",
-    "version": "a0.06",
+    "version": "a0.07",
     "description": "Added some more things! Check yourself",
     "author": "i.CAL",
     "websiteURL": "https://mcreator.net",
