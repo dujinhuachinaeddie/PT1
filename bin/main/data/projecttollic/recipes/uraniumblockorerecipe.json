@@ -1,0 +1,13 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "projecttollic:uraniumoreblock"
+    }
+  ],
+  "result": {
+    "item": "projecttollic:uraniumingot",
+    "count": 9
+  }
+}
