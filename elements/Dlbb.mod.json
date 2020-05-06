@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dlbb",
+    "name": "达拉崩吧",
+    "description": "By ilem",
+    "creativeTab": {
+      "value": "CUSTOM:Pr0jec7stuff"
+    },
+    "music": {
+      "value": "CUSTOM:dlbb"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

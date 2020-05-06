@@ -1,1 +1,11 @@
-{}
+{
+  "dlbb": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "projecttollic:a_a_eng_a_",
+        "stream": true
+      }
+    ]
+  }
+}
