@@ -1,0 +1,42 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "1": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "2": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "3": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "4": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "5": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "6": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "7": {
+      "item": "projecttollic:uraniumingot"
+    },
+    "8": {
+      "item": "projecttollic:uraniumingot"
+    }
+  },
+  "result": {
+    "item": "projecttollic:uraniumoreblock",
+    "count": 1
+  }
+}

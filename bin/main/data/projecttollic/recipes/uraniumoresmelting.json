@@ -1,0 +1,11 @@
+{
+  "group": "projecttollic",
+  "type": "minecraft:smelting",
+  "experience": 4.199999999999999,
+  "ingredient": {
+    "item": "projecttollic:uraniumore"
+  },
+  "result": {
+    "item": "projecttollic:uraniumingot"
+  }
+}
