@@ -49,6 +49,7 @@ public class PrjectllicElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public PrjectllicElements() {
 		sounds.put(new ResourceLocation("projecttollic", "dlbb"), new net.minecraft.util.SoundEvent(new ResourceLocation("projecttollic", "dlbb")));
+		sounds.put(new ResourceLocation("projecttollic", "qytx"), new net.minecraft.util.SoundEvent(new ResourceLocation("projecttollic", "qytx")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("projecttollic").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "MODEL_LAPTOP_16_10_MATERIAL_5": "",
+        "MODEL_LAPTOP_16_10_MATERIAL_6": "",
+        "MODEL_LAPTOP_16_10_MATERIAL_1": ""
+      },
+      "name": "default"
+    }
+  }
+}

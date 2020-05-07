@@ -818,14 +818,6 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "Dlbb",
-      "type": "musicdisc",
-      "sortid": 100,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -834,6 +826,11 @@
       "name": "dlbb",
       "file": "a_a_eng_a_",
       "category": "music"
+    },
+    {
+      "name": "qytx",
+      "file": "uan_u_ian_ia_",
+      "category": "master"
     }
   ],
   "language_map": {
@@ -858,7 +855,6 @@
       "item.projecttollic.hhosproarmorlegs": "HHoSPro Leggings",
       "block.projecttollic.osmiumoreblock": "Block of Osmium",
       "item.projecttollic.v2tcshovel": "V2Tc Shovel",
-      "item.projecttollic.dlbb.desc": "By ilem",
       "block.projecttollic.thegodspowerbattery": "The God\u0027s Battery",
       "block.projecttollic.rhhostier3h": "RHHoS Tier 3 ",
       "item.projecttollic.osmiumingot": "Osmium",
@@ -886,7 +882,6 @@
       "item.projecttollic.osmiumshovel": "Osmium Shovel",
       "item.projecttollic.hhosprosword": "HHoSPro Sword",
       "block.projecttollic.uraniumore": "Uranium Ore",
-      "item.projecttollic.dlbb": "达拉崩吧",
       "block.projecttollic.hhosprooreblock": "Block of HHoSPro",
       "item.projecttollic.osmiumsword": "Osmium Sword",
       "item.projecttollic.tcisarmorboots": "TCiS Boots",
@@ -915,7 +910,6 @@
       "item.projecttollic.hhosproarmorlegs": "HHoSPro Leggings",
       "block.projecttollic.osmiumoreblock": "Block of Osmium",
       "item.projecttollic.v2tcshovel": "V2Tc Shovel",
-      "item.projecttollic.dlbb.desc": "By ilem",
       "block.projecttollic.thegodspowerbattery": "The God\u0027s Battery",
       "block.projecttollic.rhhostier3h": "RHHoS Tier 3 ",
       "item.projecttollic.osmiumingot": "Osmium",
@@ -943,7 +937,6 @@
       "item.projecttollic.osmiumshovel": "Osmium Shovel",
       "item.projecttollic.hhosprosword": "HHoSPro Sword",
       "block.projecttollic.uraniumore": "Uranium Ore",
-      "item.projecttollic.dlbb": "达拉崩吧",
       "block.projecttollic.hhosprooreblock": "Block of HHoSPro",
       "item.projecttollic.osmiumsword": "Osmium Sword",
       "item.projecttollic.tcisarmorboots": "TCiS Boots",
@@ -972,7 +965,6 @@
       "item.projecttollic.hhosproarmorlegs": "HHoSPro 护腿",
       "item.projecttollic.v2tcshovel": "V2Tc 铲",
       "block.projecttollic.osmiumoreblock": "锇块",
-      "item.projecttollic.dlbb.desc": "By ilem",
       "block.projecttollic.thegodspowerbattery": "神の力",
       "block.projecttollic.rhhostier3h": "RHHoS 三次加强",
       "item.projecttollic.osmiumingot": "锇锭",
@@ -1000,7 +992,6 @@
       "item.projecttollic.osmiumshovel": "锇锹",
       "item.projecttollic.hhosprosword": "HHoSPro 剑",
       "block.projecttollic.uraniumore": "铀矿",
-      "item.projecttollic.dlbb": "达拉崩吧",
       "block.projecttollic.hhosprooreblock": "HHoSPro 块",
       "item.projecttollic.osmiumsword": "锇剑",
       "item.projecttollic.tcisarmorboots": "TCiS 靴子",

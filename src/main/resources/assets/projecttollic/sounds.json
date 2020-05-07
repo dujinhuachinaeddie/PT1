@@ -7,5 +7,14 @@
         "stream": true
       }
     ]
+  },
+  "qytx": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "projecttollic:uan_u_ian_ia_",
+        "stream": false
+      }
+    ]
   }
 }
