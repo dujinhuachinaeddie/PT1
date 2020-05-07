@@ -818,6 +818,30 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "TsdCommandExecuted",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tsd",
+      "type": "command",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -836,8 +860,8 @@
   "language_map": {
     "en_us": {
       "item.projecttollic.v2tcarmorboots": "V2Tc Boots",
-      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "item.projecttollic.tcisarmorlegs": "TCiS Leggings",
+      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "block.projecttollic.rhhostier2": "RHoS Tier 2",
       "item.projecttollic.tcisaxe": "TCiS Axe",
       "block.projecttollic.reinforcedhhos": "Reinforced HHoS Block",
@@ -891,8 +915,8 @@
     },
     "en_ca": {
       "item.projecttollic.v2tcarmorboots": "V2Tc Boots",
-      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "item.projecttollic.tcisarmorlegs": "TCiS Leggings",
+      "item.projecttollic.tcisarmorbody": "TCiS Chestplate",
       "block.projecttollic.rhhostier2": "RHoS Tier 2",
       "item.projecttollic.tcisaxe": "TCiS Axe",
       "block.projecttollic.reinforcedhhos": "Reinforced HHoS Block",
@@ -946,8 +970,8 @@
     },
     "zh_cn": {
       "item.projecttollic.v2tcarmorboots": "V2Tc 靴子",
-      "item.projecttollic.tcisarmorbody": "TCiS 胸甲",
       "item.projecttollic.tcisarmorlegs": "TCiS 护腿",
+      "item.projecttollic.tcisarmorbody": "TCiS 胸甲",
       "block.projecttollic.rhhostier2": "RHHoS 二次加强",
       "item.projecttollic.tcisaxe": "TCiS 斧",
       "block.projecttollic.reinforcedhhos": "加强的 HHoS",
