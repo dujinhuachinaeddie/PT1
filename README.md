@@ -33,6 +33,10 @@ A:Contact me. ⬇️
 
 My mail: 18916839590@189.cn
 
+## QQ
+
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=5565ab3eff298396fc664c2a55a1783a5266a829db0b859b7a2bef71810fbc25"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="我的世界资源分享群" title="我的世界资源分享群"></a>
+
 ## Support me 支持作者
 
 ### China mainland (中国大陆):
